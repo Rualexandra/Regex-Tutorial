@@ -62,6 +62,38 @@ Boundaries ensure that the pattern matches a complete email address from start t
 ## Author
 
 Alexandra Ruiz is a web development student who enjoys learning about new technologies and sharing knowledge with others. You can find more about Alexandra on her GitHub profile. 
-
 - GitHub: https://github.com/Rualexandra
+
+
+### Steps to Add This Markdown File to Your Repository
+
+1. **Clone the Starter Code**: Clone the starter code repository to your local machine.
+
+   git clone https://gist.github.com/b84a22c00749206a9cc328d99ca0d9a9.git 
+   cd Regex-Tutorial
+
+2. Create or Edit the Markdown File: Create a new file or edit the existing Markdown file (e.g., README.md) in your repository and paste the above content into it.
+
+3. Add and Commit the Changes:
+
+- git add README.md
+- git commit -m "Add regex tutorial"
+- Push the Changes to GitHub:git push origin main
+
+4. Create a GitHub Gist
+- Go to GitHub Gist.
+
+5. Create a New Gist:
+- Description: Add a description for your gist.
+- Filename including extension: Name your file with a .md extension (e.g., email-regex-tutorial.md).
+- Content: Paste the content of your Markdown file.
+- Set the Gist to Public: Ensure the gist is set to public so that others can view it.
+- Create the Gist: Click the "Create public gist" button.
+
+By following these steps, you'll create a comprehensive tutorial explaining how a specific regular expression works and publish it as a public gist on GitHub.
+
+
+
+
+
 

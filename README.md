@@ -1,5 +1,3 @@
-# Regex Tutorial .md
-This tutorial contains info on the specific regex pattern used to validate email addresses
 # Email Regex Tutorial
 
 Regular expressions (regex) are powerful tools for matching patterns in text. This tutorial will break down a specific regex pattern used to validate email addresses.
@@ -66,4 +64,5 @@ Boundaries ensure that the pattern matches a complete email address from start t
 Alexandra Ruiz is a web development student who enjoys learning about new technologies and sharing knowledge with others. You can find more about Alexandra on her GitHub profile. 
 
 - GitHub: https://github.com/Rualexandra
+-Gist: https://gist.github.com/b84a22c00749206a9cc328d99ca0d9a9.git
 
