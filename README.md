@@ -3,8 +3,9 @@
 Regular expressions (regex) are powerful tools for matching patterns in text. This tutorial will break down a specific regex pattern used to validate email addresses.
 
 ## Summary
-The regex pattern we'll be analyzing is used to verify that user input is a valid email address:/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
-This pattern ensures that the email starts with a series of characters, followed by the @ symbol, a domain name, and a valid top-level domain.
+The regex pattern we'll be analyzing is used to verify that user input is a valid email address. This pattern ensures that the email starts with a series of characters, followed by the @ symbol, a domain name, and a valid top-level domain:
+- /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+
 
 
 ## Table of Contents
@@ -64,5 +65,5 @@ Boundaries ensure that the pattern matches a complete email address from start t
 Alexandra Ruiz is a web development student who enjoys learning about new technologies and sharing knowledge with others. You can find more about Alexandra on her GitHub profile. 
 
 - GitHub: https://github.com/Rualexandra
--Gist: https://gist.github.com/b84a22c00749206a9cc328d99ca0d9a9.git
+- Gist: https://gist.github.com/b84a22c00749206a9cc328d99ca0d9a9.git 
 
